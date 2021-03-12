@@ -1,0 +1,8 @@
+nav {
+  top: 0;
+  position: fixed;
+}
+nav li {
+  display: inline;
+}
+/*# sourceMappingURL=nav.css.map */
